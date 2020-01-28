@@ -11,6 +11,8 @@ The neurofeedback protocols described here are inspired by
 *Neurofeedback: A Comprehensive Review on System Design, Methodology and Clinical Applications* by Marzbani et. al
 
 Adapted from https://github.com/NeuroTechX/bci-workshop
+
+Code further modified by Synaptech neural engineering club @ University of Washington
 """
 
 import numpy as np  # Module that simplifies computations on matrices
